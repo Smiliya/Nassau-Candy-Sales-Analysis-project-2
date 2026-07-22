@@ -1,51 +1,52 @@
-# Big Mart Sales Prediction
+# Big Mart Sales Analysis Dashboard
 
 # Project Overview
-The Big Mart Sales Prediction project aims to predict product sales using historical sales data. The project involves data cleaning, exploratory data analysis (EDA), feature analysis, and building predictive insights to help improve business decision-making.
+This project analyzes Big Mart sales data using Microsoft Excel. The objective is to understand sales performance, identify top-performing products and outlets, and create an interactive dashboard for business insights.
 
 # Objectives
-Analyze historical sales data
-Identify factors affecting product sales
-Discover sales patterns and trends
-Predict future sales performance
-Support business decision-making
+Analyze overall sales performance
+Identify top-selling products
+Compare sales across different outlet types
+Analyze category-wise performance
+Build an interactive Excel dashboard
 
-# Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-
-# Key Features
+# Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
 Data Cleaning
-Exploratory Data Analysis (EDA)
-Feature Analysis
-Sales Trend Analysis
-Data Visualization
-Sales Prediction
+Dashboard Design
+
+# Dashboard Features
+Total Sales
+Total Profit (if applicable)
+Product-wise Sales Analysis
+Outlet-wise Sales Analysis
+Category-wise Sales Analysis
+Interactive Filters (Slicers)
+Dynamic Charts
 
 # Files Included
-BigMart_Sales_Dataset.csv
-BigMart_Sales_Prediction.ipynb
+BigMart_Sales_Dashboard.xlsx
+BigMart_Sales_Dataset.xlsx
 Project_Report.pdf
-Output_Screenshots.png
+Dashboard_Screenshot.png
 
 # Key Insights
-Identified important factors influencing sales.
-Analyzed product and outlet performance.
-Visualized sales trends using charts.
-Built a predictive model for sales forecasting.
+Identified the highest-performing products.
+Compared sales across different outlet types.
+Analyzed category-wise sales performance.
+Built an interactive dashboard for business decision-making.
 
 # Skills Demonstrated
 Data Cleaning
 Data Analysis
 Data Visualization
-Machine Learning Basics
-Feature Engineering
-Business Analytics
+Dashboard Development
+Business Intelligence
+Microsoft Excel
 
 # Author
-SMILIYA S  
+SMILIYA S 
 Data Analyst Aspirant
